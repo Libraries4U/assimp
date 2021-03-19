@@ -1,5 +1,3 @@
-description "Open Asset Import Library\3770,128,128";
-
 noblitz;
 
 options
@@ -702,7 +700,5 @@ file
 	contrib\zip\src readonly separator,
 	contrib\zip\src\miniz.h,
 	contrib\zip\src\zip.c,
-	contrib\zip\src\zip.h,
-	Info readonly separator,
-	Copying;
+	contrib\zip\src\zip.h;
 
